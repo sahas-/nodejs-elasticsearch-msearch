@@ -1,0 +1,7 @@
+{
+    "elasticsearch": {
+        "index": "fuzzy_items",
+        "type": "city",
+        "host": "http://localhost:9200"
+    }
+}
